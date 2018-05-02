@@ -1,1 +1,1 @@
-INCA Realtime Dashboard
+Dashboard
